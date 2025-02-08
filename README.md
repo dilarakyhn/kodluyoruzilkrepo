@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi - Açtığım İlk Repo
-![resim]("C:\Users\DİLARA\Desktop\dory.jpg"):
+![resim](https://tr.pinterest.com/pin/ATloZK7qjkpEYROY7QMUCUGWI7jPx8r4iQFAm1A6jOktL0JKFSSv52c/):
